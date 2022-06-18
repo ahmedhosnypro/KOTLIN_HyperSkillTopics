@@ -1,0 +1,1 @@
+fun createFullName(fstName: String, lstName: String) = "$fstName $lstName"
